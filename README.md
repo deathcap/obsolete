@@ -1,0 +1,6 @@
+# obsolete
+
+## License
+
+MIT
+

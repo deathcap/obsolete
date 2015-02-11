@@ -1,0 +1,17 @@
+{
+  "name": "obsolete",
+  "description": "",
+  "version": "0.0.1",
+  "main": "obsolete.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:deathcap/obsolete.git"
+  },
+  "keywords": [
+    "voxel",
+    "plugin"
+  ],
+  "dependencies": {
+  },
+  "license": "MIT"
+}
