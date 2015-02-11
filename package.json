@@ -1,6 +1,6 @@
 {
   "name": "obsolete",
-  "description": "",
+  "description": "obsolete properties throw exceptions",
   "version": "0.0.1",
   "main": "obsolete.js",
   "repository": {
@@ -8,10 +8,15 @@
     "url": "git@github.com:deathcap/obsolete.git"
   },
   "keywords": [
-    "voxel",
-    "plugin"
+    "obsolete",
+    "property"
   ],
-  "dependencies": {
+  "scripts": {
+    "test": "node test.js"
   },
-  "license": "MIT"
+  "dependencies": {},
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^3.5.0"
+  }
 }
