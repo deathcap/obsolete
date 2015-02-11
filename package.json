@@ -1,7 +1,7 @@
 {
   "name": "obsolete",
   "description": "obsolete properties throw exceptions",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "obsolete.js",
   "repository": {
     "type": "git",
