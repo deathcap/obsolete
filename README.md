@@ -2,6 +2,8 @@
 
 Mark removed properties as obsolete so they throw an exception when used
 
+[![Build Status](https://travis-ci.org/deathcap/obsolete.png)](https://travis-ci.org/deathcap/obsolete)
+
 Usage:
 
     var obsolete = require('obsolete');
